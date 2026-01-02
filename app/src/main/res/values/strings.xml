@@ -22,6 +22,5 @@
     <string name="attention">Perhatian !</string>
     <string name="tanya">Apakah yakin akan menghapus ini ?</string>
     <string name="deskripsi_no_item">Tidak ada data Siswa. Tap + untuk menambah data</string>
-
-
+    <string name="connection_error">Tidak dapat terhubung ke jaringan.</string>
 </resources>
