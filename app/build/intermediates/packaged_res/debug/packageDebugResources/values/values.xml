@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="padding_extra_large">32dp</dimen>
+    <dimen name="padding_large">20dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="alamat">Alamat Siswa*</string>
+    <string name="alamat1">Alamat Siswa :</string>
+    <string name="app_name">Data Firebase</string>
+    <string name="attention">Perhatian !</string>
+    <string name="back">back</string>
+    <string name="btn_submit">Submit</string>
+    <string name="connection_error">Tidak dapat terhubung ke jaringan.</string>
+    <string name="delete">Hapus</string>
+    <string name="deskripsi_no_item">Tidak ada data Siswa. Tap + untuk menambah data</string>
+    <string name="detail_siswa">Detail Siswa</string>
+    <string name="edit_siswa">Edit Siswa</string>
+    <string name="entry_siswa">Tambah Siswa</string>
+    <string name="gagal">Gagal Loading</string>
+    <string name="gcm_defaultSenderId" translatable="false">297384842382</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZpzlNLD0NwoCBTtf_YscX9eYdkeOH9tw</string>
+    <string name="google_app_id" translatable="false">1:297384842382:android:29a33f5baa73ddaa0fa5df</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZpzlNLD0NwoCBTtf_YscX9eYdkeOH9tw</string>
+    <string name="google_storage_bucket" translatable="false">fir-kotlin-390bf.firebasestorage.app</string>
+    <string name="loading">Loading..</string>
+    <string name="nama">Nama Siswa*</string>
+    <string name="nama1">Nama Siswa  :</string>
+    <string name="no">Tidak</string>
+    <string name="project_id" translatable="false">fir-kotlin-390bf</string>
+    <string name="required_field">required_field</string>
+    <string name="retry">Retry</string>
+    <string name="tanya">Apakah yakin akan menghapus ini ?</string>
+    <string name="telpon">Telpon Siswa*</string>
+    <string name="telpon1">Telpon Siswa :</string>
+    <string name="update">Edit</string>
+    <string name="yes">Ya</string>
+    <style name="Theme.MyFirebase" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

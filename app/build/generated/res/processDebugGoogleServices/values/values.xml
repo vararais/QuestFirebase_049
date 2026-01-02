@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">297384842382</string>
+    <string name="google_api_key" translatable="false">AIzaSyCZpzlNLD0NwoCBTtf_YscX9eYdkeOH9tw</string>
+    <string name="google_app_id" translatable="false">1:297384842382:android:29a33f5baa73ddaa0fa5df</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZpzlNLD0NwoCBTtf_YscX9eYdkeOH9tw</string>
+    <string name="google_storage_bucket" translatable="false">fir-kotlin-390bf.firebasestorage.app</string>
+    <string name="project_id" translatable="false">fir-kotlin-390bf</string>
+</resources>
