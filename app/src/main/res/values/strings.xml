@@ -20,7 +20,8 @@
     <string name="gagal">Gagal Loading</string>
     <string name="loading">Loading..</string>
     <string name="attention">Perhatian !</string>
-    <string name="tanya">Apakah yakin akan menghapus ini ?
+    <string name="tanya">Apakah yakin akan menghapus ini ?</string>
+    <string name="deskripsi_no_item">Tidak ada data Siswa. Tap + untuk menambah data</string>
 
 
 </resources>
