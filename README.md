@@ -16,3 +16,6 @@ Halaman Edit : <img width="1920" height="1080" alt="Screenshot 2026-01-09 182135
 
 
 Halaman Delete : <img width="1920" height="1080" alt="Screenshot 2026-01-09 182150" src="https://github.com/user-attachments/assets/b840b0bc-bb22-4bbe-9558-504583b18502" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/484f90e3-421c-411c-a00c-6453629a8942" />
